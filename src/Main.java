@@ -13,4 +13,6 @@ public class Main {
     private String feature2;
 
     private String develop;
+
+    private String develop2;
 }
