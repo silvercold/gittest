@@ -9,4 +9,6 @@ public class Main {
     private void feature(){}
 
     private String feature1;
+
+    private String feature2;
 }
