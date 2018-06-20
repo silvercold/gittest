@@ -7,4 +7,14 @@ public class Main {
     public void master(){}
 
     private void feature(){}
+
+    private String feature1;
+
+    private String feature2;
+
+    private String develop;
+
+    private String develop4;
+
+
 }
