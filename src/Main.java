@@ -19,4 +19,8 @@ public class Main {
     private String develop5;
 
 
+    private String developSlash1;
+    private String developSlash2;
+
+
 }
