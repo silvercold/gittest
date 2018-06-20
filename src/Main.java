@@ -23,4 +23,7 @@ public class Main {
     private String developSlash2;
 
 
+    private String developCommon1;
+
+
 }
